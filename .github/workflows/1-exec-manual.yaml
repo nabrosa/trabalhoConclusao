@@ -24,4 +24,4 @@ jobs:
 
       # executar os testes 
       - name: Executar Trabalho Final
-        run: npx mocha trabConclusao/trabalho-final.js
+        run: npx mocha trabalho-final.js
